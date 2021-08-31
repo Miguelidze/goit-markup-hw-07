@@ -1,0 +1,12 @@
+body {
+  background-color: $white-color;
+  color: $main-text-color;
+  font-family: $main-text-family;
+  font-weight: $main-text-weight;
+}
+.container {
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 15px;
+}
